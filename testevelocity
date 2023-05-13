@@ -1,1 +1,1 @@
-UI.Button("Teste1", function() end)
+UI.Button("Teste2", function() end)
